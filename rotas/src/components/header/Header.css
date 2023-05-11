@@ -1,0 +1,19 @@
+nav{
+    background-color: #ff0000;
+    padding: 10px;
+}
+a{
+    padding-left: 50px;
+    color: aliceblue;
+    border: 2px solid black ;
+    text-align: center;
+    padding: 5px;
+    margin: 2px;
+    text-decoration-line: none;
+    border-radius: 5px;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    transition: 1s;
+}
